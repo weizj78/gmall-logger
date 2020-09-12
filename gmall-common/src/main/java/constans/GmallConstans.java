@@ -1,4 +1,4 @@
-package xyz.weizj.gmalllogger.constans;
+package constans;
 
 public class GmallConstans {
     public static final String KAFKA_TOPIC_STARTUP="GMALL_STARTUP";

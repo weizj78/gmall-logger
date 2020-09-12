@@ -8,7 +8,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
-import xyz.weizj.gmalllogger.constans.GmallConstans;
+import constans.GmallConstans;
 
 @Slf4j
 @Controller
